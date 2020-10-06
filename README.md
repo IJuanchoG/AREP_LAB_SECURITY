@@ -34,8 +34,8 @@ como se puede apreciar en la consola, la aplicación corre por el puerto **5000*
 
 del mismo modo se pueden ver los servicios corriengo en las siguientes rutas:
 
-- (Primer Servidor de Login)[ec2-3-80-100-51.compute-1.amazonaws.com]
-- (Segundo Servidor de Otros servicios)[ec2-3-93-180-198.compute-1.amazonaws.com]
+- (Primer Servidor de Login)[http://ec2-3-80-26-118.compute-1.amazonaws.com:3002/]
+- (Segundo Servidor de Otros servicios)[http://ec2-3-80-52-35.compute-1.amazonaws.com:3001/hello]
  
  ### Prerequisitos.
 
