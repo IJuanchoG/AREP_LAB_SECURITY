@@ -1,4 +1,4 @@
-package edu.eci.arep.sparkwebapp.security.login;
+package edu.eci.arep.securitysparkwebapp.security.login;
 
 public class User {
     private String username;

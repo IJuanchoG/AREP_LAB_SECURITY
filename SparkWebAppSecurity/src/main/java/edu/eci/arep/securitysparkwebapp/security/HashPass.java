@@ -1,4 +1,4 @@
-package edu.eci.arep.sparkwebapp.security;
+package edu.eci.arep.securitysparkwebapp.security;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;

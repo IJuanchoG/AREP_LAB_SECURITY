@@ -1,4 +1,4 @@
-package edu.eci.arep.sparkwebapp.security.login.persistence;
+package edu.eci.arep.securitysparkwebapp.security.login.persistence;
 
 public class DataContentHTML {
 

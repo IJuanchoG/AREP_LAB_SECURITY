@@ -50,6 +50,7 @@ public class URLReader {
             // We can now read this URL
             readURL("https://localhost:5000/hello");
             readURL("https://localhost:5000/");
+            readURL("https://ec2-3-80-52-35.compute-1.amazonaws.com:3001/hello");
             // This one can't be read because the Java default truststore has been
             // changed.
             readURL("https://www.google.com");

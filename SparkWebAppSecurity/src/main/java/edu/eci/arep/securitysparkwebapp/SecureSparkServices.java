@@ -1,8 +1,8 @@
-package edu.eci.arep.sparkwebapp;
+package edu.eci.arep.securitysparkwebapp;
 
-import edu.eci.arep.sparkwebapp.security.HashPass;
-import edu.eci.arep.sparkwebapp.security.login.User;
-import edu.eci.arep.sparkwebapp.security.login.persistence.DataContentHTML;
+import edu.eci.arep.securitysparkwebapp.security.HashPass;
+import edu.eci.arep.securitysparkwebapp.security.login.User;
+import edu.eci.arep.securitysparkwebapp.security.login.persistence.DataContentHTML;
 import spark.Request;
 import spark.Response;
 import java.util.HashMap;
